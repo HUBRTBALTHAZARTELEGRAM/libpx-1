@@ -1,10 +1,3 @@
-# --- File: doubleratchet/crypto/__init__.py ---
-'''
-File: __init__.py
-Date: 05/20/2020
-Author: Robert Neff
-'''
-
 from __future__ import absolute_import
 import sys
 import os
